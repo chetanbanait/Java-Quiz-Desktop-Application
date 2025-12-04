@@ -4,7 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-
 public class Quiz extends JFrame implements ActionListener {
     
     String questions[][] = new String[10][5];
